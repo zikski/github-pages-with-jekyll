@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Title: "Adventures with Jekyll
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm learning how to use github because I would like to hone my skills and I dont wanna be broke
